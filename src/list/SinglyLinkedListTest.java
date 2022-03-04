@@ -1,3 +1,5 @@
+package list;
+
 import list.SinglyLinkedList;
 
 public class SinglyLinkedListTest {
