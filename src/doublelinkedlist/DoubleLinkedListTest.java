@@ -1,3 +1,5 @@
+package doublelinkedlist;
+
 import doublelinkedlist.NodeDoubleLinkedList;
 
 public class DoubleLinkedListTest {
