@@ -1,8 +1,8 @@
 package binarytree;
 
-public class TreeTest {
+public class TreeDFSTest {
     public static void main(String[] args) {
-        BinaryTree binaryTree = new BinaryTree();
+        BinaryTreeDFS binaryTree = new BinaryTreeDFS();
         binaryTree.addData(1);
         binaryTree.addData(2);
         binaryTree.addData(3);

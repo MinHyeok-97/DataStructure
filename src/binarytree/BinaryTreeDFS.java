@@ -3,7 +3,7 @@ package binarytree;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class BinaryTree {
+public class BinaryTreeDFS {
     Node root;
 
     public void addData(int key) {
