@@ -23,6 +23,8 @@ public class Main {
         matrixGraph.addUndirectedEdge(3, 4);
         matrixGraph.addUndirectedEdge(2, 5);
         matrixGraph.printEdge();
+        matrixGraph.dfsTraversal(3);
+        matrixGraph.bfsTraversal(3);
 
         matrixGraph.clear();
         matrixGraph.addDirectEdge(0, 1);
@@ -41,6 +43,9 @@ public class Main {
         listGraph.addUndirectedEdge(3, 4);
         listGraph.addUndirectedEdge(2, 5);
         listGraph.printEdge();
+        listGraph.dfsTraversal(3);
+        listGraph.bfsTraversal(3);
+
 
         listGraph.clear();
         listGraph.addDirectEdge(0, 1);
